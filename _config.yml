@@ -6,3 +6,6 @@ avatar: https://www.gravatar.com/avatar/1234567890abcdef1234567890abcdef
 paginate: 5
 comments: true
 google_analytics: UA-12345678-9
+# Minima theme
+theme: minima
+
